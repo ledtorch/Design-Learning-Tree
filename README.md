@@ -24,8 +24,10 @@ Every branch has its design part & tools part,
 p.s. To make sure __Simple__and__ Functional__, every gardener will review any pull requests and edit the content of branch.
 
 > At present, the gardeners are the team member of Design Learning Gourp
----- 
 <br/>
+
+---- 
+
 <br/>
 
 # 設計學習樹
