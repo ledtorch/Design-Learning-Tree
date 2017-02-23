@@ -23,10 +23,11 @@ Every branch has its design part & tools part,
 
 p.s. To make sure __Simple__and__ Functional__, every gardener will review any pull requests and edit the content of branch.
 
-_At present, the gardeners are the team member of Design Learning Gourp_
+> At present, the gardeners are the team member of Design Learning Gourp
 ---- 
 <br/>
 <br/>
+
 # 設計學習樹
 確保學習資源永遠是__精簡__且__有用的__。
 
@@ -52,4 +53,5 @@ _At present, the gardeners are the team member of Design Learning Gourp_
 
 p.s.為了確保__精簡__且__有用__，每個分枝的園丁將負責審核提交的內容與編排分枝的內容
 
-_目前的園丁暫由設計學習群組的成員擔任_
+> 目前的園丁暫由設計學習群組的成員擔任
+----
