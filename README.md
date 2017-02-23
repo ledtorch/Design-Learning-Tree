@@ -1,4 +1,4 @@
-# Design-Learning-Tree
+# Design Learning Tree
 Keep our design resource __Simple__ and __Functional__.
 
 ## What is it?
