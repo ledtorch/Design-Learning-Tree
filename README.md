@@ -27,9 +27,7 @@ p.s. To make sure __Simple__and__ Functional__, every gardener will review any 
 <br/>
 
 ---- 
-
 <br/>
-
 # 設計學習樹
 確保學習資源永遠是__精簡__且__有用的__。
 
