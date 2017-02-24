@@ -12,16 +12,18 @@ Now, there are 4 design branch in this tree:
 
 Every branch has its design part & tools part, 
 - Design part is about:
-> The tutorials, principle, guideline …etc.
+
+ > The tutorials, principle, guideline …etc.
 - Tools part is about:
-> The tools, templetes, news …etc.
+
+ > The tools, templetes, news …etc.
 
 ## Let's plant your tree!
 1. Understand how to [use github](https://guides.github.com/activities/hello-world/).
 2. Use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to write.
 3. Edit the branch.md(like “UI Design.md”) to link your works or the resource you found.
 
-p.s. To make sure __Simple__and__ Functional__, every gardener will review any pull requests and edit the content of branch.
+p.s. To make sure __Simple__ and __ Functional__, every gardener will review any pull requests and edit the content of branch.
 
 > At present, the gardeners are the team member of Design Learning Gourp
 <br/>
@@ -42,9 +44,11 @@ p.s. To make sure __Simple__and__ Functional__, every gardener will review any 
 
 每個分枝都有設計和工具2部分，
 - 設計：
-> 設計教學、設計原理、設計準則 …etc.
+
+ > 設計教學、設計原理、設計準則 …etc.
 - 工具：
-> 設計工具、設計模板、設計新聞 …etc.
+
+ > 設計工具、設計模板、設計新聞 …etc.
 
 ## 來一起種樹吧！
 1. 了解怎麼使用[github](https://gold.xitu.io/entry/56e638591ea49300550885cc)
