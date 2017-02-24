@@ -3,15 +3,15 @@ This is UX design branch. In this branch, we only focus on UX design and UX desi
 
 The gardener has right to accept or reject your contribution for keep this branch __Simple & Functional__.
 
-- About UX design
+- Design
 	- [](#)()
-- UX design tools
+- Tools
 	- [](#)()
 	- [](#)()
-- UX design resource
+- Resource
 	- [](#)()
-- UX design news
+- News
 	- [](#)()
 
 ---- 
-Gardener: Jerry
+Gardeners: Jerry
