@@ -3,15 +3,15 @@ This is Wed & Front-end design branch. In this branch, we only focus on Wed & Fr
 
 The gardener has right to accept or reject your contribution for keep this branch __Simple & Functional__.
 
-- About Wed & Front-end design
+- Design
 	- [](#)()
-- Wed & Front-end design tools
+- Tools
 	- [](#)()
 	- [](#)()
-- Wed & Front-end design resource
+- Resource
 	- [](#)()
-- Wed & Front-end design news
+- News
 	- [](#)()
 
 ---- 
-Gardener: Jerry
+Gardeners: Jerry
