@@ -5,6 +5,10 @@ The gardener has right to accept or reject your contribution for keep this branc
 
 - Design
 	- [](#)()
+- Development
+	- [Codecademy](https://www.codecademy.com)(html, css, javascript 基礎理解)
+	- [用 MAC在 AWS EC2架站](https://medium.com/@amou/aws-ec2-1-25e3f56ae935#.b7zjl798j)
+	- [用.htaccess 自動導向 https](https://medium.com/@amou/frontend-1-6fce26180df5#.8e9w5b6gt)
 - Tools
 	- [](#)()
 	- [](#)()
