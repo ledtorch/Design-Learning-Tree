@@ -4,9 +4,9 @@ This is Graphic design branch. In this branch, we only focus on Graphic design a
 The gardener has right to accept or reject your contribution for keep this branch __Simple & Functional__.
 
 - Design
-	- [Affintiy Photo初探：匹敵Photoshop的專業修圖軟體](https://medium.com/@amou/affinityphoto1-f5b9a154e44a#.9zlmt6dhq)
+	- 
 - Tools
-	- [](#)()
+	- [Affintiy Photo初探：匹敵Photoshop的專業修圖軟體](https://medium.com/@amou/affinityphoto1-f5b9a154e44a#.9zlmt6dhq)
 	- [](#)()
 - Resource
 	- [](#)()
