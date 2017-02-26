@@ -7,6 +7,7 @@ The gardener has right to accept or reject your contribution for keep this branc
 	- 
 - Tools
 	- [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
+		
 		1.[Affintiy Photo初探：匹敵Photoshop的專業修圖軟體](https://medium.com/@amou/affinityphoto1-f5b9a154e44a#.9zlmt6dhq)
 	- []()
 - Resource
